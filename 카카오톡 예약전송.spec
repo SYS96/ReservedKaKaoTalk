@@ -3,7 +3,7 @@
 
 block_cipher = None
 
-workspace = 'YOUR WORK SPACE' # change here
+workspace = 'C:\Users\YS SON\Desktop\ReservedKaKaoTalk-master\ReservedKaKaoTalk-master' # change here
 
 a = Analysis(['카카오톡 예약전송.py'],
              pathex=[workspace],
